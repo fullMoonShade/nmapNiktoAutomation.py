@@ -25,7 +25,7 @@ def analyze_results():
 
 
 if __name__ == "__main__":
-    target = "192.168.1.1" # Specify target here 
+    target = "192.168.1.1" # Default target IP // Change if needed 
     run_nmap(target)
 
     # Extracting open ports from nmap_results.txt
