@@ -10,4 +10,4 @@ IP defaults to localhost. Look for target variable in script to change.
 
 Tags included in the script: -oN, -sV
 
-Look for comment run_nmap() to add or remove tags. 
+Look for run_nmap() to add or remove tags. 
